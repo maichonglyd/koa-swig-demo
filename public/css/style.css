@@ -1,0 +1,19 @@
+body {
+    padding: 100px;
+}
+
+.add-block {
+    margin-bottom: 100px;
+}
+
+.item-block {
+    padding: 20px 0 40px 0;
+    border-bottom: 1px dashed #aaa;
+}
+
+.label-n {
+    word-wrap: break-word;
+    word-break: keep-all;
+    overflow: hidden;
+    max-height: 40px;
+}

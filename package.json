@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://maichong.io/maichongdemo/node.git"
+  },
+  "author": "li",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-router": "^7.2.0",
+    "koa-static": "^3.0.0",
+    "swig": "^1.4.2"
+  }
+}
